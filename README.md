@@ -1,0 +1,2 @@
+# inpaas-mailer
+Mailer Service
